@@ -1,0 +1,9 @@
+C:\Users\emil.eremiev\Desktop\ScreenshotApp\ScreenshotApp\bin\Debug\ScreenshotApp.exe.config
+C:\Users\emil.eremiev\Desktop\ScreenshotApp\ScreenshotApp\bin\Debug\ScreenshotApp.exe
+C:\Users\emil.eremiev\Desktop\ScreenshotApp\ScreenshotApp\bin\Debug\ScreenshotApp.pdb
+C:\Users\emil.eremiev\Desktop\ScreenshotApp\ScreenshotApp\obj\Debug\ScreenshotApp.csprojResolveAssemblyReference.cache
+C:\Users\emil.eremiev\Desktop\ScreenshotApp\ScreenshotApp\obj\Debug\ScreenshotApp.Form1.resources
+C:\Users\emil.eremiev\Desktop\ScreenshotApp\ScreenshotApp\obj\Debug\ScreenshotApp.Properties.Resources.resources
+C:\Users\emil.eremiev\Desktop\ScreenshotApp\ScreenshotApp\obj\Debug\ScreenshotApp.csproj.GenerateResource.Cache
+C:\Users\emil.eremiev\Desktop\ScreenshotApp\ScreenshotApp\obj\Debug\ScreenshotApp.exe
+C:\Users\emil.eremiev\Desktop\ScreenshotApp\ScreenshotApp\obj\Debug\ScreenshotApp.pdb
